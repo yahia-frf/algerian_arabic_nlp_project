@@ -735,8 +735,8 @@ Special thanks to the open-source community for making research accessible.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-yahia--frf-181717?style=for-the-badge&logo=github)](https://github.com/yahia-frf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yahia_Ferarsa-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yahiaferarsa)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yahia_Ferarsa-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yahia-ferarsa)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiaferarsaa@gmail.com)
 
 </div>
 
